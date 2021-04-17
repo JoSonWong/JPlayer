@@ -1,0 +1,4 @@
+include ':activities'
+include ':library'
+include ':app'
+rootProject.name = "JPlayer"
